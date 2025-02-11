@@ -13,7 +13,7 @@ const App = () => {
 export default App;
 
 // ------------------------------------
-// Go to babel 👇 and past your code and checkout the result.
+// Go to babel 👇 and paste your code and checkout the result.
 // https://babeljs.io/repl
 
 // import React from "react";
