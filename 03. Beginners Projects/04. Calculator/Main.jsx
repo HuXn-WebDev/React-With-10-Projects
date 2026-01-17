@@ -9,7 +9,7 @@ function Main() {
   }
 
   function calculate() {
-    var answers = eval(inputvalue);
+    let answers = eval(inputvalue);
     setinputvalue(answers);
   }
 
